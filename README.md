@@ -2,6 +2,7 @@
 
 <!--
 **kishan0921/kishan0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 [![@kishan0921's Holopin board](https://holopin.me/kishan0921)](https://holopin.io/@kishan0921)
 
@@ -14,9 +15,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,4 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan0921&" alt="kishan0921" /></p>
 
 
--->
